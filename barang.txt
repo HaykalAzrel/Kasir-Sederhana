@@ -1,0 +1,3 @@
+Nama Barang: Mie
+ Jumlah Barang : 2
+ Total : 50000
